@@ -1,0 +1,23 @@
+﻿@model List<Domain.UPD8.Entidades.Autenticacao>
+
+
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>Senha</th>
+        <th>Email</th>
+    </tr>
+    @foreach (var autenticacao in Model)
+    {
+
+        <p>Nome: @autenticacao.Nome</p>
+        <p>Senha: @autenticacao.Senha</p>
+        <p>Email: @autenticacao.Email</p>
+
+        <a href="/Autenticacao/Editar/@autenticacao.Id" class="btn btn-success">Editar</a>
+        <a href="/Autenticacao/Excluir/@autenticacao.Id" class="btn btn-danger">Excluir</a>
+
+
+
+    }
+</table>

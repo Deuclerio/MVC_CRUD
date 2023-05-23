@@ -1,0 +1,15 @@
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\bin\Debug\net6.0\DATA.UPD8.deps.json
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\bin\Debug\net6.0\DATA.UPD8.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\bin\Debug\net6.0\DATA.UPD8.pdb
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\bin\Debug\net6.0\Domain.UPD8.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\bin\Debug\net6.0\Domain.UPD8.pdb
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\obj\Debug\net6.0\DATA.UPD8.csproj.AssemblyReference.cache
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\obj\Debug\net6.0\DATA.UPD8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\obj\Debug\net6.0\DATA.UPD8.AssemblyInfoInputs.cache
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\obj\Debug\net6.0\DATA.UPD8.AssemblyInfo.cs
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\obj\Debug\net6.0\DATA.UPD8.csproj.CoreCompileInputs.cache
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\obj\Debug\net6.0\DATA.UPD8.csproj.CopyComplete
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\obj\Debug\net6.0\DATA.UPD8.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\obj\Debug\net6.0\refint\DATA.UPD8.dll
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\obj\Debug\net6.0\DATA.UPD8.pdb
+C:\Users\deucl\OneDrive\Área de Trabalho\UPD8\Cadastros_Basicos\Código\DATA.UPD8\obj\Debug\net6.0\ref\DATA.UPD8.dll
